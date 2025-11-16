@@ -54,7 +54,7 @@ Project Structure
 generative_ai_project/
 │── app.py                # Main Streamlit chatbot code
 │── requirements.txt      # Python dependencies
-│── screenshot.png        # Optional: Project screenshot
+│── image.png        # Optional: Project screenshot
 
 Notes
 
